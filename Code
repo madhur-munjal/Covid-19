@@ -1,6 +1,6 @@
 import pandas as pd
 
-df = pd.read_csv(r'C:\Users\Madhur\Desktop\covid_time2703.csv')
+df = pd.read_csv(r'covid_time2703.csv')
 
 import pandas as pd
 import matplotlib.pyplot as plt
